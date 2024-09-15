@@ -45,9 +45,9 @@ This dataset contains movie titles, descriptions, and other relevant metadata, f
    ```bash
    git clone https://github.com/yourusername/movie-recommender-system.git
 ### recommend("Dune")
-dune: part two
-dune
-hirokin: the last samurai
-frankenstein must be destroyed
-war for the planet of the apes
 
+1. **Dune: Part Two**
+2. **Dune**
+3. **Hirokin: The Last Samurai**
+4. **Frankenstein Must Be Destroyed**
+5. **War for the Planet of the Apes**
