@@ -44,11 +44,10 @@ This dataset contains movie titles, descriptions, and other relevant metadata, f
 
    ```bash
    git clone https://github.com/yourusername/movie-recommender-system.git
-### Enter a movie title: Avatar
-Top 5 similar movies:
-1. The Abyss
-2. Guardians of the Galaxy
-3. Interstellar
-4. Star Wars: The Force Awakens
-5. Pacific Rim
+### recommend("Dune")
+dune: part two
+dune
+hirokin: the last samurai
+frankenstein must be destroyed
+war for the planet of the apes
 
